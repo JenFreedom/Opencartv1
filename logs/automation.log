@@ -1,0 +1,36 @@
+13:35:22.151 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+13:35:23.126 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+13:35:23.128 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+13:35:25.055 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+13:35:25.102 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+13:35:25.320 [main] INFO  testCases.TC002_LoginTest - Chrome browser
+13:35:29.629 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+13:35:30.128 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+13:35:32.253 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+14:02:35.258 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\master.xml"
+14:02:35.686 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser
+14:02:39.642 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+14:02:39.642 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+14:02:39.732 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+14:02:40.460 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+14:02:40.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+14:02:41.620 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+14:02:41.660 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed..
+14:02:41.660 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs.. 
+14:02:41.967 [main] INFO  testCases.TC002_LoginTest - Chrome browser
+14:02:46.312 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+14:02:46.839 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+14:02:48.741 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+14:18:48.331 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\master.xml"
+14:18:48.715 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser
+14:18:53.461 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+14:18:53.461 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+14:18:53.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+14:18:54.425 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+14:18:54.426 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+14:18:56.093 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+14:18:56.132 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+14:18:56.303 [main] INFO  testCases.TC002_LoginTest - Chrome browser
+14:19:00.289 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+14:19:00.876 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+14:19:03.367 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***

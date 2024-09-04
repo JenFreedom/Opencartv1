@@ -1,0 +1,57 @@
+11:38:52.316 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:38:52.328 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+11:38:52.577 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+11:38:53.233 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+11:38:53.234 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+11:38:54.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+11:38:54.703 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+11:39:00.522 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+11:39:01.212 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+11:39:03.104 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+11:39:50.298 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml"
+11:39:50.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml
+
+11:39:50.679 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser
+11:39:54.975 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:39:54.975 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+11:39:55.035 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+11:39:55.862 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+11:39:55.864 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+11:39:57.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+11:39:57.495 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+11:39:57.686 [main] INFO  testCases.TC002_LoginTest - Chrome browser
+11:40:01.456 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+11:40:01.985 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+11:40:04.556 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+11:40:10.436 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:40:10.436 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+11:40:10.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+11:40:11.380 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+11:40:11.381 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+11:40:12.728 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+11:40:12.747 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+11:40:18.803 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+11:40:19.471 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+11:40:21.199 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+11:48:14.354 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml"
+11:48:14.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml
+
+11:48:20.392 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:48:20.392 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+11:48:20.489 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+11:48:21.321 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+11:48:21.323 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+11:48:22.816 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+11:48:22.865 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+11:48:25.904 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+11:48:26.374 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+11:48:28.141 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+11:48:33.971 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+11:48:33.971 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+11:48:34.316 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+11:48:35.070 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+11:48:35.070 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+11:48:36.588 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+11:48:36.639 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 

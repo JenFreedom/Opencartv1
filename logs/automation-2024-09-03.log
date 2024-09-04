@@ -1,0 +1,56 @@
+11:48:41.981 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+11:48:42.667 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+11:48:44.306 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+13:26:53.556 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml"
+13:26:53.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml
+
+13:26:59.391 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+13:26:59.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+13:26:59.503 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+13:27:00.213 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+13:27:00.215 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+13:27:01.805 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+13:27:01.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+13:27:04.793 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+13:27:05.248 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+13:27:06.999 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+13:27:13.724 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+13:27:13.724 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+13:27:14.024 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+13:27:14.743 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+13:27:14.744 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+13:27:16.087 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+13:27:16.113 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+13:27:20.567 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+13:27:21.213 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+13:27:22.838 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+13:38:49.689 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml"
+13:38:49.945 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\grid-docker.xml
+
+13:38:54.418 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+13:38:54.418 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+13:38:54.576 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+13:38:55.304 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+13:38:55.308 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+13:38:56.762 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+13:38:56.818 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+13:38:59.991 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+13:39:00.475 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+13:39:02.268 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+13:39:07.669 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+13:39:07.669 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
+13:39:08.006 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking Register
+13:39:08.757 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Click on Register Link ***
+13:39:08.758 [main] INFO  testCases.TC001_AccountRegistrationTest - Filling Registration form 
+13:39:10.499 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating success message
+13:39:10.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished Testing 
+13:39:15.855 [main] INFO  testCases.TC002_LoginTest - *** Staring TC_002_LoginTest ***
+13:39:16.554 [main] INFO  testCases.TC002_LoginTest - Entering Login credentials
+13:39:18.279 [main] INFO  testCases.TC002_LoginTest - *** Finished Login Test ***
+13:34:06.154 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\master.xml"
+13:35:10.447 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sjshe\eclipse-workspace\Automation\OpencartV1\master.xml"
+13:35:10.811 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome browser
+13:35:22.082 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest ***
+13:35:22.082 [main] INFO  testCases.TC001_AccountRegistrationTest - Testing ----
